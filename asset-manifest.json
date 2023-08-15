@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/dio-login/static/js/main.36fae647.js",
+    "static/media/netflix-bg.jpg": "/dio-login/static/media/netflix-bg.c450dc88c8ee9d72e0c5.jpg",
+    "index.html": "/dio-login/index.html",
+    "main.36fae647.js.map": "/dio-login/static/js/main.36fae647.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.36fae647.js"
+  ]
+}
